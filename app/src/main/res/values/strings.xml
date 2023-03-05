@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Speak App</string>
+    <string name="inbox">Inbox</string>
+    <string name="help">Help</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="sent_items">Sent Items</string>
+</resources>
